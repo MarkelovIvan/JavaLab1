@@ -6,6 +6,7 @@ public class Main {
     public static long[][] matrixC = new long[3][3];
 
     public static void main(String[] args) {
+        System.out.println("---Hello user!---\n---This is start of program.---\n");
         System.out.println("C = B^T\n");
 
         inputData(); // Створення матриці B
@@ -13,6 +14,8 @@ public class Main {
         transposeMatrix(matrixB); // Траспонування матриці В
         showMatrix(matrixC, "C"); // Вивід матриці С
         showMiddleElement(matrixC); // Обрахунок і вивід середнього значення серед всіх елементів матриці С
+        System.out.println("\n---This is end of program.---\n");
+
     }
 
 
