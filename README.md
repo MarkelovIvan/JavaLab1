@@ -15,4 +15,5 @@
 |10              | Знайти середнє значення елементів матриці|
 
 Щоб запустити код, необхідно запустити код у файлі за шляхом [src/Main.java](src/Main.java)
-Для запуску рекомендовано використовувати [online-java-compiler](https://www.jdoodle.com/online-java-compiler)
+
+Для запуску коду рекомендовано використовувати [online-java-compiler](https://www.jdoodle.com/online-java-compiler)
